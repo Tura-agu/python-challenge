@@ -1,12 +1,11 @@
 # python-challenge
  PyBank
  Tasked with creating a Python script for analyzing the financial 
- records of a company. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+ records of a company.
 
 Pypoll
 
-Tasked with helping a small, rural town modernize its vote-counting process. 
-Given a set of poll data called [election_data.csv], I created a Python script that analyzes the votes and calculates each of the following:
+Tasked with helping a small, rural town modernize its vote-counting process.  I created a Python script that analyzes the votes and calculates each of the following:
 
 * The total number of votes cast
 
